@@ -1,0 +1,5 @@
+# All files and folder will be untracked in Git
+.vscode
+bin
+obj
+*.db
